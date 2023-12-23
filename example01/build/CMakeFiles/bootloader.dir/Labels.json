@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/LVGL/demo/example01/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/LVGL/demo/example01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,5 @@
+## IDF Component Manager Manifest File
+dependencies:
+  idf: ">=5.1"
+  lvgl/lvgl: ">=8.*"
+  esp_lvgl_port: "^1"
